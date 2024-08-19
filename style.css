@@ -1,0 +1,23 @@
+div{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+hr{
+    width: 100%;
+    height:100%;
+    display: inline-block;
+}
+#heading{
+  background-color: blueviolet;
+  width: 20%;
+  display: flex;
+   justify-content: center;
+  align-items: center;
+}
+#contaniner{
+  width: 70%;
+  margin: auto;
+  background-color: aqua;
+}

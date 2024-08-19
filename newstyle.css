@@ -1,0 +1,45 @@
+.div-contair{
+    width: 90%;
+    background-color: rgb(10, 71, 51);
+    border: 2px solid black;
+    display: block;
+    margin: auto;
+    border: 1px solid white;
+    margin-top: 7%;
+}
+h1{
+   text-align: center;
+   color: white;
+}
+.inner-div{
+    border: 2px solid white;
+    height: 10%; 
+    width: 60%; 
+    display: block;
+    margin: auto;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding: 3%;
+
+}
+p{
+    color: rgb(211, 235, 211);
+}
+.input-1{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.image{
+    width: 15%;
+    height: 15%;
+     margin-top: 5%;
+}
+.button{
+    background-color: rgb(36, 120, 92);;
+    color: aliceblue;
+    padding-left: 15%;
+    padding-right: 15%;
+    font-size: 1em;
+}
